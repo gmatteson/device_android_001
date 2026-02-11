@@ -1,11 +1,11 @@
 {
     "sys_app_config_parameters":  {
                                       "sys_app_status_update":  "1",
-                                      "sys_app_datetime_utc_published":  "2026-02-11T03:49:16.8781419Z",
-                                      "sys_app_version_update":  "1.2",
-                                      "sys_app_datetime_utc_version_built":  "2026-02-11T03:49:16.8781419Z",
+                                      "sys_app_datetime_utc_published":  "2026-02-11T04:29:22.5353628Z",
+                                      "sys_app_version_update":  "1.3",
+                                      "sys_app_datetime_utc_version_built":  "2026-02-11T04:29:22.5353628Z",
                                       "sys_app_sec_cert_digital_signature_thumbprint_current":  "13593e587475544a2b4c5daf219e77c14de9fa12cf4eaf53c225fc29e0c1ff6f",
-                                      "sys_app_sec_version_hash_current":  "620406e75d1d986be4dae150d41e7fae8116a58bb2e53e35d066ec38f2bd0d77",
+                                      "sys_app_sec_version_hash_current":  "77cc9a0d52cfd11cced07d11ae407c70f625ce8f781b1d41b6a70bd6d961922d",
                                       "sys_app_platform_device":  "mobile",
                                       "sys_app_url_update":  "https://github.com/gmatteson/device_android_001/updates.json",
                                       "sys_app_version_to_cert_sig_version":  [
@@ -29,6 +29,13 @@
                                                                                       "sys_app_datetime_utc_version_built":  "2026-02-11T03:49:16.8781419Z",
                                                                                       "sys_app_sec_cert_digital_signature_thumbprint_current":  "13593e587475544a2b4c5daf219e77c14de9fa12cf4eaf53c225fc29e0c1ff6f",
                                                                                       "sys_app_sec_version_hash":  "620406e75d1d986be4dae150d41e7fae8116a58bb2e53e35d066ec38f2bd0d77"
+                                                                                  },
+                                                                                  {
+                                                                                      "sys_app_version_to_cert_sig_version_id":  "4",
+                                                                                      "sys_app_version":  "1.3",
+                                                                                      "sys_app_datetime_utc_version_built":  "2026-02-11T04:29:22.5353628Z",
+                                                                                      "sys_app_sec_cert_digital_signature_thumbprint_current":  "13593e587475544a2b4c5daf219e77c14de9fa12cf4eaf53c225fc29e0c1ff6f",
+                                                                                      "sys_app_sec_version_hash":  "77cc9a0d52cfd11cced07d11ae407c70f625ce8f781b1d41b6a70bd6d961922d"
                                                                                   }
                                                                               ]
                                   }
