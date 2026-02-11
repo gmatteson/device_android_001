@@ -1,0 +1,34 @@
+[
+  {
+    "sys_app_config_parameters": {
+      "sys_app_datetime_utc_created": "2025-09-18T17:59:11.777322",
+      "sys_app_datetime_utc_updated": "2025-09-18T17:59:11.777322",
+      "sys_app_status_update": "1",
+      "sys_app_version": "1.0.0.2",
+      "sys_app_sec_cert_digital_signature_thumbprint_current": "0cdd0846c57f0bd2f662df15f15405ac8a99dc4b105edc06e18a984a40a660e0",
+      "sys_app_sec_version_hash_current": "4b105edc06e18a984a40a660e0cdd0846c5ac8a99dc07f0bd2f662df15f15405",
+      "sys_app_platform_device": "mobile",
+      "sys_app_url_update": "https://github.com/gmatteson/device_android_001/updates.json",
+      "sys_app_version_to_cert_sig_version": [
+        {
+          "sys_app_version_to_cert_sig_version_id": "1",
+          "sys_app_version": "1.0.0.0",
+          "sys_app_sec_cert_digital_signature_thumbprint_current": "ac8a99dc4b105edc06e18a984a40a660e00cdd0846c57f0bd2f662df15f15405",
+          "sys_app_sec_version_hash": "0cdd0846c5ac8a99dc4b105edc06e18a984a40a660e07f0bd2f662df15f15405"
+        },
+        {
+          "sys_app_version_to_cert_sig_version_id": "2",
+          "sys_app_version": "1.0.0.1",
+          "sys_app_sec_cert_digital_signature_thumbprint_current": "f15f15405ac8a99dc4b105edc00cdd0846c57f0bd2f662d6e18a984a40a660e0",
+          "sys_app_sec_version_hash": "18a984a40a0cdd0846c5ac8a99dc4b105edc06e660e07f0bd2f662df15f15405"
+        },
+        {
+          "sys_app_version_to_cert_sig_version_id": "3",
+          "sys_app_version": "1.0.0.2",
+          "sys_app_sec_cert_digital_signature_thumbprint_current": "9dc4b105edc06e18a984a40a660e00cdd0846c57f0bd2f662df15f15405ac8a9",
+          "sys_app_sec_version_hash": "bd2f662df15f1540cdd0846c5ac8a99dc4b105edc06e18a984a40a660e07f005"
+        }
+      ]
+    }
+  }
+]
